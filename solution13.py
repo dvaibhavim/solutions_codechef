@@ -3,10 +3,13 @@
 Created on Tue Jun 16 21:03:27 2020
 
 Input
-The first line of the input file contains an integer T, the number of test cases. T test cases follow. Each test case consists of exactly 2 lines. The first line of each test case contains two space separated integers N and C, the total number of elephants and the total number of candies in the Zoo respectively. The second line contains N space separated integers A1, A2, ..., AN.
+The first line of the input file contains an integer T, the number of test cases. T test cases follow. Each test case consists of exactly 2 lines. 
+The first line of each test case contains two space separated integers N and C, the total number of elephants and the total number of candies in the 
+Zoo respectively. The second line contains N space separated integers A1, A2, ..., AN.
 
 Output
-For each test case output exactly one line containing the string Yes if it possible to make all elephants happy and the string No otherwise. Output is case sensitive. So do not print YES or yes.
+For each test case output exactly one line containing the string Yes if it possible to make all elephants happy and the string No otherwise. Output 
+is case sensitive. So do not print YES or yes.
 """
 '''
 result = []
