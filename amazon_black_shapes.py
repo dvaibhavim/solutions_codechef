@@ -42,7 +42,6 @@ is just one single connected black shape.
 '''
 
 class Solution:
-class Solution:
 	# @param A : list of strings
 	# @return an integer
 	def black(self, A):
